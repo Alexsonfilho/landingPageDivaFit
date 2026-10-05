@@ -1,0 +1,43 @@
+# 🛍️ DivaFit Moda Fitness — Hub Oficial de Atendimento & Catálogo
+
+Aplicação web *mobile-first* desenvolvida para a marca **DivaFit Moda Fitness**, projetada para centralizar canais de atendimento, catálogo de produtos e informações de suporte em uma interface rápida, moderna e intuitiva para os clientes.
+
+![DivaFit Preview](assets/logoMarcaDivaFit.jpg)
+
+---
+
+## 📱 Recursos & Funcionalidades
+
+- **Design Mobile-First & Responsivo:** Otimizado para navegação rápida e perfeita em smartphones.
+- **Acesso Direto ao Catálogo:** Link direto para a coleção atualizada no Google Drive.
+- **Canais Rápidos de Atendimento:** Direcionamento direto para o WhatsApp oficial e grupo VIP de clientes.
+- **Redes Sociais:** Acesso rápido ao Instagram oficial.
+- **Diferenciais da Marca:** Vitrine institucional destacando tecnologia dos tecidos e benefícios.
+- **Informações de Atendimento:** Horários atualizados de suporte online.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5:** Estrutura semântica e acessível.
+- **Tailwind CSS (v3 CDN):** Estilização moderna, responsiva e com suporte a *Glassmorphism*.
+- **JavaScript (ES6+):** Interatividade e feedback visual de cliques.
+- **Font Awesome 6:** Ícones vetoriais das redes sociais e ações.
+- **Google Fonts:** Fontes *Outfit* (títulos) e *Plus Jakarta Sans* (corpo).
+
+---
+
+## 📂 Estrutura de Pastas do Projeto
+
+```text
+divafit-hub/
+│
+├── index.html              # Estrutura principal da aplicação
+├── README.md               # Documentação do projeto
+├── css/
+│   └── styles.css          # Estilos customizados e efeitos de fundo
+├── js/
+│   ├── tailwind-config.js  # Configuração do tema visual no Tailwind CSS
+│   └── main.js             # Scripts de interatividade e feedback visual
+└── assets/
+    └── logoMarcaDivaFit.jpg # Imagens e assets da marca
